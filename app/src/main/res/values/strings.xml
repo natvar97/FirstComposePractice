@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstComposePractice</string>
+    <string name="title_activity_jetpack_compose_layout_codelab">JetpackComposeLayoutCodelab
+    </string>
+    <string name="title_activity_scaffold_example">ScaffoldExample</string>
+    <string name="title_activity_extend_modifier">ExtendModifier</string>
+    <string name="title_activity_layout_composable">LayoutComposable</string>
+    <string name="title_activity_complex_custom_layout">ComplexCustomLayout</string>
+    <string name="title_activity_compose_constraint_layout">ComposeConstraintLayout</string>
+</resources>
